@@ -4,7 +4,7 @@ Hi there! I'm Keen David Aguro, a passionate IT enthusiast. Welcome to my corner
 
 ## 🌱 About Me
 
-- 🔭 I’m currently working on [current project or focus].
+- 🔭 I’m currently a part-time freelancer and full-time full-stack developer.
 - 🌐 I enjoy exploring ASP.NET Technology, PHP, PHP Codeigniter, HTML, CSS, Javascript, React, Oracle Database and MySQL Database.
 - 📚 I'm always learning and love to share my knowledge with others.
 - 💬 Ask me about backend, mobile, machine learning, arduino and game development.
