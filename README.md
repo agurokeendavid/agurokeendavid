@@ -1,297 +1,173 @@
-# Welcome to Keen's GitHub Profile 👋
+# 🚀 Keen David Aguro
 
-Hi there! I'm Keen David Aguro, a passionate IT enthusiast. Welcome to my corner of the coding world! Here, you'll find a collection of projects, contributions, and maybe a bit of my personality sprinkled in.
+Senior / Lead Software Engineer (.NET Full Stack)
 
-## 🌱 About Me
+🇵🇭 Manila, Philippines\
+💼 6+ Years Experience\
+🏛 Former Lead Developer -- Bureau of Immigration (Philippines)
 
-- 🔭 I’m currently a part-time freelancer and full-time full-stack developer.
-- 🌐 I enjoy exploring ASP.NET Technology, PHP, PHP Codeigniter, HTML, CSS, Javascript, React, Oracle Database and MySQL Database.
-- 📚 I'm always learning and love to share my knowledge with others.
-- 💬 Ask me about backend, mobile, machine learning, arduino and game development.
-  
-## 🔗 Connect with Me
+I design and build **enterprise systems, government platforms, scalable
+APIs, and modern web applications** using .NET and modern cloud
+technologies.
 
-- [LinkedIn](https://www.linkedin.com/in/keentoy/)
-- [Facebook](https://www.facebook.com/agurokeendavid/)
+------------------------------------------------------------------------
 
-## 📫 How to Reach Me
+# 👀 Profile Visitors
 
-Feel free to reach out through [email](agurokeendavid@gmail.com) if you have any questions, collaboration ideas, or just want to chat.
+![Visitor
+Count](https://komarev.com/ghpvc/?username=agurokeendavid&style=for-the-badge)
 
-## 🙏 Acknowledgements
+------------------------------------------------------------------------
 
-I'd like to express my gratitude to anyone.
+# 🔗 Connect With Me
 
-Thanks for stopping by! 😊
-
-# 🚀 .NET Full-Stack Developer Roadmap (2025 Edition)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keen%20David%20Aguro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agurokeendavid/)\
+[![GitHub](https://img.shields.io/badge/GitHub-agurokeendavid-black?style=for-the-badge&logo=github)](https://github.com/agurokeendavid)
 
-**Author:** Keen David Aguro  
-**Goal:** Master modern .NET development (Backend + Frontend + Cloud + AI) through 1 hour of daily learning.
-
----
-
-## 🧭 Learning Strategy
-
-### ⏰ Daily Time Commitment
-- **1 hour per day (Monday–Friday)**
-- **Optional Saturday:** 1–2 hours for mini-project or recap
-- **Sunday:** Rest or tech reading / videos
-
-### 🎯 Study Pattern
-| Time | Focus | Example |
-|------|--------|---------|
-| 0–15 min | Read / Watch | Quick tutorial or documentation |
-| 15–45 min | Code | Implement what you learned |
-| 45–60 min | Reflect | Write notes or commit code |
-
----
-
-## 🏗️ Year-Long Roadmap
-
-### 🧩 **Phase 1 ( Months 1-3 ) – Modern Backend Mastery**
-**Goal:** Build clean, scalable, testable .NET 9 APIs.
-
-#### 📘 Topics
-- .NET 9 MVC & Web API best practices  
-- Clean Architecture, CQRS (MediatR)  
-- Async/await, Dependency Injection  
-- Logging (Serilog), Validation (FluentValidation)  
-- Unit Testing (xUnit, Moq)  
-- Swagger & Minimal APIs  
-
-#### 💻 Frontend Pairing
-- TypeScript fundamentals  
-- Angular 18 basics (components, routing, services)
-
-#### 🎯 Weekly Sample Goals
-| Day | Topic | Goal |
-|-----|--------|------|
-| Monday | Clean Architecture | Refactor one module |
-| Tuesday | CQRS + MediatR | Add command/query handlers |
-| Wednesday | Logging | Configure Serilog with file sink |
-| Thursday | Testing | Write 2 unit tests |
-| Friday | Angular | Connect API to Angular frontend |
-| Saturday | Mini-Project | CRUD app using .NET 9 + Angular |
-
-#### 📚 Resources
-**Free**
-- [.NET Docs](https://learn.microsoft.com/en-us/dotnet/)
-- [Clean Architecture Repo – Jason Taylor](https://github.com/jasontaylordev/CleanArchitecture)
-- [MediatR Guide](https://github.com/jbogard/MediatR/wiki)
-- [Angular Official Docs](https://angular.dev)
-- [FluentValidation Docs](https://docs.fluentvalidation.net/en/latest/)
-
-**Paid / Optional**
-- [Pluralsight – Building Clean Web APIs with . NET Core](https://www.pluralsight.com)
-- [Udemy – Complete ASP. NET Core Web API](https://www.udemy.com)
-- [FrontendMasters – Angular Deep Dive](https://frontendmasters.com)
-
----
-
-### 🌐 **Phase 2 ( Months 4-6 ) – Frontend Mastery**
-**Goal:** Create full-stack, production-ready UIs integrated with .NET APIs.
-
-#### 📘 Topics
-- Angular 18+ (preferred) or React 19 (optional)  
-- RxJS & Observables  
-- Angular Material + Bootstrap 5  
-- Routing Guards & Auth (JWT)  
-- State Management (NgRx)  
-- Responsive Design & Accessibility  
-
-#### 📚 Resources
-**Free**
-- [Angular Tutorials by Fireship](https://www.youtube.com/c/Fireship)
-- [Angular Material Docs](https://material.angular.io/)
-- [JWT Auth with . NET API & Angular Guide](https://jasonwatmore.com)
-- [Bootstrap 5 Docs](https://getbootstrap.com)
-
-**Paid**
-- [Udemy – Angular Complete Guide (Max Schwarzmüller)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
-- [FrontendMasters – Angular Architecture Workshop](https://frontendmasters.com)
-
----
-
-### ☁️ **Phase 3 ( Months 7-9 ) – DevOps & Cloud Deployment**
-**Goal:** Learn to deploy, scale, and monitor cloud-based .NET apps.
-
-#### 📘 Topics
-- Docker (Images, Volumes, Compose)  
-- Kubernetes Basics (AKS/EKS)  
-- GitHub Actions CI/CD  
-- Azure App Service, Blob Storage, Key Vault  
-- Database Optimization & Indexing  
-- NoSQL Intro (Redis, MongoDB)  
-- Application Insights & Serilog Integration  
-
-#### 📚 Resources
-**Free**
-- [Microsoft Learn – Azure Fundamentals](https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/)
-- [Docker Docs](https://docs.docker.com/get-started/)
-- [GitHub Actions Docs](https://docs.github.com/en/actions)
-- [Kubernetes Basics Interactive Tutorial](https://kubernetes.io/docs/tutorials/)
-- [Redis University](https://university.redis.com)
-
-**Paid**
-- [A Cloud Guru – Azure Developer Associate Path](https://acloudguru.com)
-- [Udemy – Docker and Kubernetes for Developers](https://www.udemy.com)
-- [Pluralsight – Azure for Developers Courses](https://www.pluralsight.com)
-
----
-
-### 🤖 **Phase 4 ( Months 10-12 ) – AI & Future-Ready . NET**
-**Goal:** Build intelligent, cross-platform, and secure applications.
-
-#### 📘 Topics
-- OpenAI API integration (chatbots, NLP)  
-- ML. NET Model Training  
-- Blazor (Server / WASM)  
-- .NET MAUI (Mobile/Desktop Apps)  
-- Design Patterns & SOLID Principles  
-- Secure Coding & OWASP Top 10  
-
-#### 📚 Resources
-**Free**
-- [OpenAI API Docs](https://platform.openai.com/docs)
-- [ML. NET Docs](https://learn.microsoft.com/en-us/dotnet/machine-learning/)
-- [Blazor Tutorials](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
-- [MAUI Samples on GitHub](https://github.com/dotnet/maui-samples)
-- [Refactoring Guru – Design Patterns](https://refactoring.guru/design-patterns)
-
-**Paid**
-- [Udemy – Build AI Apps with . NET and OpenAI](https://www.udemy.com)
-- [PluralSight – Advanced C# Design Patterns](https://www.pluralsight.com)
-- [LinkedIn Learning – Blazor Essentials](https://www.linkedin.com/learning/)
-
----
+------------------------------------------------------------------------
 
-## 🎨 Frontend Stack to Master (as a . NET Developer)
-
-| Category | Tool / Framework | Purpose |
-|-----------|------------------|----------|
-| Frontend Framework | **Angular 18+** | Ideal pairing with . NET APIs |
-| Styling | Bootstrap 5 / Tailwind CSS | Enterprise vs Modern UI |
-| UI Components | Angular Material / DevExtreme | Pre-built UI components |
-| Language | TypeScript | Safer JavaScript alternative |
-| State Management | NgRx / Signals | Manage complex state |
-| Testing | Jasmine + Karma | Unit testing frontend |
-| Optional | Blazor | C# for frontend apps |
+# 🧠 Tech Stack
 
----
+### Backend
 
-## ☁️ Backend & Architecture Stack
+![.NET](https://img.shields.io/badge/.NET-8%20%7C%2010-purple?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-Backend-blue?style=for-the-badge&logo=csharp)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-MVC%20%7C%20WebForms-blueviolet?style=for-the-badge)
 
-| Category | Tool / Framework | Purpose |
-|-----------|------------------|----------|
-| API Framework | ASP. NET Core 9 / MVC | Web API & Web Apps |
-| ORM | Entity Framework Core | DB interaction |
-| Database | SQL Server / Oracle / MySQL | Data persistence |
-| Logging | Serilog + Seq | Centralized logging |
-| Validation | FluentValidation | Input validation |
-| Architecture | Clean / Onion Architecture | Scalable design |
-| Messaging | RabbitMQ / Kafka | Event-driven integration |
-| Security | JWT / OAuth2 / IdentityServer | Authentication & Authorization |
+### Frontend
 
----
+![Angular](https://img.shields.io/badge/Angular-Frontend-red?style=for-the-badge&logo=angular)
+![Vue](https://img.shields.io/badge/Vue.js-Frontend-green?style=for-the-badge&logo=vue.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
 
-## 🔧 DevOps & Cloud Stack
+### Databases
 
-| Category | Tool / Service | Purpose |
-|-----------|----------------|----------|
-| Containers | Docker / Podman | Build images |
-| Orchestration | Kubernetes (AKS) | Scale containers |
-| CI/CD | GitHub Actions / Azure Pipelines | Automate build + deploy |
-| Cloud | Azure App Service, Key Vault, SQL | Host and secure apps |
-| Monitoring | Application Insights / Grafana | Observability |
-| SCM | GitHub / Azure Repos | Version control |
+![Oracle](https://img.shields.io/badge/Oracle-19c-red?style=for-the-badge&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![SQL
+Server](https://img.shields.io/badge/SQL%20Server-Database-grey?style=for-the-badge)
 
----
+### DevOps
 
-## 📘 Side Project Ideas (Portfolio-Ready)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+![GitHub
+Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
 
-| Project | Stack | Description |
-|----------|--------|-------------|
-| **eServices Mini Clone** | .NET 9 + Angular + SQL | Simplified visa extension dashboard |
-| **AI Chat Support Bot** | .NET API + OpenAI | Auto-response assistant |
-| **PWD Mapping System** | .NET 9 + Angular + Google Maps | GIS data visualization |
-| **Portfolio Website** | Blazor Server or Angular | Personal site showcasing projects |
-| **Cloud Pipeline Demo** | Docker + GitHub Actions + Azure | End-to-end DevOps deployment |
+### Monitoring
 
----
+Hangfire • Serilog • OpenTelemetry • .NET Aspire
 
-## 🏆 Career Path Options
+### Mobile
 
-| Role | Focus | Key Skills |
-|------|--------|------------|
-| **Full-Stack . NET Engineer** | Frontend + Backend | .NET 9, Angular, EF Core |
-| **Solution Architect** | Systems Design + Cloud | Azure, Microservices, CI/CD |
-| **AI-Integrated Developer** | Smart Apps / Automation | ML. NET, OpenAI API, Blazor |
+.NET MAUI • Android (Java) • Swift
 
----
+------------------------------------------------------------------------
 
-## 🗓️ 12-Month Learning Timeline
+# ⭐ Featured Production Systems
 
-| Quarter | Focus | Core Tools |
-|----------|--------|------------|
-| Q1 | Backend Architecture & Testing | .NET 9, CQRS, EF Core |
-| Q2 | Frontend & API Integration | Angular 18, TypeScript |
-| Q3 | DevOps & Cloud Deployment | Docker, Kubernetes, Azure |
-| Q4 | AI & Innovation Projects | ML. NET, Blazor, MAUI |
+### BI eServices Portal
 
----
+https://e-services.immigration.gov.ph
 
-## ❤️ Motivation
-> *“Consistency beats intensity.”*  
-Even one focused hour a day compounds into hundreds of hours per year.  
-Document every mini-project and commit your progress — your GitHub will become your portfolio of mastery.
+National immigration services platform with integrated payment gateways
+(Maya, GCash, Landbank).
 
----
+Tech: .NET MVC • Oracle 19c • Hangfire • Serilog
 
-## 🧾 License
-This roadmap is open for learning and sharing.  
-Feel free to fork, modify, and adapt for your own growth path.
+------------------------------------------------------------------------
 
----
+### Enerlytic -- Energy Monitoring Platform
 
-**Made with 💻 by [Keen David Aguro](https://github.com/agurokeendavid)**
+https://enerlytic.co.uk/
 
+Real-time electricity and water consumption monitoring system.
 
-<!--
+Tech: .NET 8 Web API • Angular • MS SQL Server
 
-# Welcome to [Your Name]'s GitHub Profile 👋
+------------------------------------------------------------------------
 
-Hi there! I'm [Your Name], a passionate [your field/interests] enthusiast. Welcome to my corner of the coding world! Here, you'll find a collection of projects, contributions, and maybe a bit of my personality sprinkled in.
+### Bantay Pusta -- Gambling Protection Platform
 
-## 🌱 About Me
+https://rgph-web-awc6ebcybpanehfz.southeastasia-01.azurewebsites.net/
 
-- 🔭 I’m currently working on [current project or focus].
-- 🌐 I enjoy exploring [technologies, languages, frameworks].
-- 📚 I'm always learning and love to share my knowledge with others.
-- 💬 Ask me about [specific topics you're knowledgeable about].
+Platform designed to monitor and restrict access to online betting
+platforms.
 
-## 🚀 Featured Repositories
+Tech: .NET MAUI • .NET Web API
 
-Here are some projects I'm proud of:
+------------------------------------------------------------------------
 
-1. [Project 1](link-to-project-1): Short description.
-2. [Project 2](link-to-project-2): Brief overview.
-3. [Project 3](link-to-project-3): What it's about.
+### Backride Pinas -- Motorcycle Booking Platform
 
-## 🔗 Connect with Me
+https://backridepinas.com/
 
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Personal Website/Blog](your-website-link)
+Motorcycle ride booking system in Palawan.
 
-## 📫 How to Reach Me
+Tech: Laravel • Angular • MySQL
 
-Feel free to reach out through [email](your-email@example.com) if you have any questions, collaboration ideas, or just want to chat.
+------------------------------------------------------------------------
 
-## 🙏 Acknowledgements
+### Real Estate Management ERP
 
-I'd like to express my gratitude to [anyone or anything you want to acknowledge].
+https://rems-staging.pdpsolutions.ph/
 
-Thanks for stopping by! 😊
+Enterprise property and real estate management system.
 
--->
+Tech: CodeIgniter • Vue.js • MySQL • AWS
+
+------------------------------------------------------------------------
+
+# 🏗 Engineering Focus
+
+-   Enterprise Systems\
+-   Government Digital Platforms\
+-   Scalable API Architectures\
+-   DevOps & Cloud Automation\
+-   High Performance Backend Systems
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=agurokeendavid&show_icons=true&theme=tokyonight)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agurokeendavid&layout=compact&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# 🐍 Contribution Snake
+
+![Snake
+animation](https://github.com/agurokeendavid/agurokeendavid/blob/output/github-contribution-grid-snake.svg)
+
+------------------------------------------------------------------------
+
+# 🌌 3D Contribution Graph
+
+![3D
+Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agurokeendavid&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# 💡 Engineering Philosophy
+
+I focus on building **maintainable, scalable, and production-ready
+systems**.
+
+Principles:
+
+-   Clean Architecture
+-   Performance Optimization
+-   Secure Software Design
+-   Automated CI/CD Pipelines
+-   Observability and Monitoring
+
+------------------------------------------------------------------------
+
+# 📫 Contact
+
+Email: **agurokeendavid@gmail.com**\
+LinkedIn: https://linkedin.com/in/agurokeendavid
