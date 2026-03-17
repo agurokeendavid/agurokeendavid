@@ -186,4 +186,4 @@ Senior / Lead Software Engineer (.NET Full Stack)
 🔗 **LinkedIn:** https://www.linkedin.com/in/agurokeendavid/  
 💻 **GitHub:** https://github.com/agurokeendavid  
 
-📄 **Resume:** https://drive.google.com/file/d/my-filelink
+📄 **Resume:** https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing
