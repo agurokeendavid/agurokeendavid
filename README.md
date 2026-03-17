@@ -1,172 +1,189 @@
-# 🚀 Keen David Aguro
+# <div align="center">Hi there, I'm Keen David Aguro 👋</div>
 
-Senior / Lead Software Engineer (.NET Full Stack)
+<div align="center">
 
-🇵🇭 Manila, Philippines\
-💼 6+ Years Experience\
-🏛 Former Lead Developer -- Bureau of Immigration (Philippines)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Senior+%2F+Lead+Software+Engineer+(.NET+Full+Stack);Building+Enterprise+Systems%2C+Government+Platforms%2C+and+Scalable+APIs;ASP.NET+%7C+.NET+8%2F10+%7C+Angular+%7C+Laravel+%7C+Oracle+%7C+Docker;Passionate+about+Clean+Architecture%2C+DevOps%2C+and+Production-Ready+Systems)](https://git.io/typing-svg)
 
-I design and build **enterprise systems, government platforms, scalable
-APIs, and modern web applications** using .NET and modern cloud
-technologies.
+</div>
 
-------------------------------------------------------------------------
+---
 
-# 👀 Profile Visitors
+## 🚀 About Me
 
-![Visitor
-Count](https://komarev.com/ghpvc/?username=agurokeendavid&style=for-the-badge)
+- 🇵🇭 Based in **Manila, Philippines**
+- 💼 **6+ years** of experience in software engineering
+- 🏛 Former **Lead Developer** at the **Bureau of Immigration (Philippines)**
+- 🔧 Focused on **enterprise systems, government platforms, scalable APIs, and cloud-ready applications**
+- 📱 Experienced in **web, backend, DevOps, and mobile development**
 
-------------------------------------------------------------------------
+I design and build **enterprise systems, government platforms, scalable APIs, and modern web applications** using .NET and modern cloud technologies.
 
-# 🔗 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keen%20David%20Aguro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agurokeendavid/)\
-[![GitHub](https://img.shields.io/badge/GitHub-agurokeendavid-black?style=for-the-badge&logo=github)](https://github.com/agurokeendavid)
+## 👀 Profile Visitors
 
-------------------------------------------------------------------------
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agurokeendavid&style=for-the-badge" alt="visitor counter" />
+</p>
 
-# 🧠 Tech Stack
+---
 
-### Backend
+## 🔗 Connect With Me
 
-![.NET](https://img.shields.io/badge/.NET-8%20%7C%2010-purple?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-Backend-blue?style=for-the-badge&logo=csharp)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-MVC%20%7C%20WebForms-blueviolet?style=for-the-badge)
+<p align="center">
+  <a href="https://www.linkedin.com/in/agurokeendavid/">
+    <img src="https://img.shields.io/badge/LinkedIn-Keen%20Aguro-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/agurokeendavid">
+    <img src="https://img.shields.io/badge/GitHub-agurokeendavid-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-### Frontend
+---
 
-![Angular](https://img.shields.io/badge/Angular-Frontend-red?style=for-the-badge&logo=angular)
-![Vue](https://img.shields.io/badge/Vue.js-Frontend-green?style=for-the-badge&logo=vue.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+## 🧠 Tech Stack
 
-### Databases
+### Animated Skill Icons
 
-![Oracle](https://img.shields.io/badge/Oracle-19c-red?style=for-the-badge&logo=oracle)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
-![SQL
-Server](https://img.shields.io/badge/SQL%20Server-Database-grey?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,vue,js,php,laravel,mysql,aws,docker,githubactions,java,swift&perline=7" />
+</p>
 
-### DevOps
+### Core Technologies
 
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
-![GitHub
-Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black?style=for-the-badge&logo=githubactions)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+- **Backend:** C#, .NET 8 / .NET 10, ASP.NET WebForms, ASP.NET MVC, REST APIs, Laravel PHP, CodeIgniter  
+- **Frontend:** Angular, Vue.js, JavaScript, HTML/CSS, DevExpress  
+- **Database:** Oracle 19c, MS SQL Server, MySQL  
+- **DevOps / Infrastructure:** Docker, GitHub Actions, CI/CD, IIS, Reverse Proxy, AWS  
+- **Monitoring:** Hangfire, Serilog, OpenTelemetry, .NET Aspire  
+- **Mobile:** .NET MAUI, Android (Java), Swift  
 
-### Monitoring
+---
 
-Hangfire • Serilog • OpenTelemetry • .NET Aspire
-
-### Mobile
-
-.NET MAUI • Android (Java) • Swift
-
-------------------------------------------------------------------------
-
-# ⭐ Featured Production Systems
+## ⭐ Featured Production Systems
 
 ### BI eServices Portal
-
 https://e-services.immigration.gov.ph
 
-National immigration services platform with integrated payment gateways
-(Maya, GCash, Landbank).
+National immigration services platform with integrated payment gateways (**Maya, GCash, Landbank**).  
+**Tech:** .NET MVC • Oracle 19c • Hangfire • Serilog
 
-Tech: .NET MVC • Oracle 19c • Hangfire • Serilog
+---
 
-------------------------------------------------------------------------
-
-### Enerlytic -- Energy Monitoring Platform
-
+### Enerlytic – Energy Real-Time Consumption Monitoring
 https://enerlytic.co.uk/
 
-Real-time electricity and water consumption monitoring system.
+Real-time electricity and water consumption monitoring system.  
+**Tech:** .NET 8 Web API • Angular • MS SQL Server
 
-Tech: .NET 8 Web API • Angular • MS SQL Server
+---
 
-------------------------------------------------------------------------
-
-### Bantay Pusta -- Gambling Protection Platform
-
+### Bantay Pusta – Gambling Protection Platform
 https://rgph-web-awc6ebcybpanehfz.southeastasia-01.azurewebsites.net/
 
-Platform designed to monitor and restrict access to online betting
-platforms.
+Platform designed to monitor and restrict access to online betting platforms.  
+**Tech:** .NET MAUI • .NET Web API
 
-Tech: .NET MAUI • .NET Web API
+---
 
-------------------------------------------------------------------------
-
-### Backride Pinas -- Motorcycle Booking Platform
-
+### Backride Pinas – Motorcycle Booking Platform
 https://backridepinas.com/
 
-Motorcycle ride booking system in Palawan.
+Motorcycle ride booking system in Palawan.  
+**Tech:** Laravel • Angular • MySQL
 
-Tech: Laravel • Angular • MySQL
-
-------------------------------------------------------------------------
+---
 
 ### Real Estate Management ERP
-
 https://rems-staging.pdpsolutions.ph/
 
-Enterprise property and real estate management system.
+Enterprise property and real estate management system.  
+**Tech:** CodeIgniter • Vue.js • MySQL • AWS
 
-Tech: CodeIgniter • Vue.js • MySQL • AWS
+<!-- ---
 
-------------------------------------------------------------------------
+## 📌 Pinned Repository Showcase
 
-# 🏗 Engineering Focus
+These are the repositories I recommend pinning on my GitHub profile:
 
--   Enterprise Systems\
--   Government Digital Platforms\
--   Scalable API Architectures\
--   DevOps & Cloud Automation\
--   High Performance Backend Systems
+| Project | Description |
+|---|---|
+| **BantayPusta** | Gambling protection platform with monitoring capabilities |
+| **dotnet-enterprise-api** | Clean architecture .NET API with logging, monitoring, and Docker |
+| **angular-enterprise-dashboard** | Enterprise admin dashboard with charts and API integrations |
+| **docker-dotnet-api** | Dockerized .NET Web API deployment template |
+| **system-design-notes** | Notes and diagrams for scalable system architecture |
+| **portfolio** | Personal engineering portfolio and project showcase |
 
-------------------------------------------------------------------------
+--- -->
 
-# 📊 GitHub Stats
+## 🏗 Engineering Focus
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=agurokeendavid&show_icons=true&theme=tokyonight)
+- Enterprise Systems
+- Government Digital Platforms
+- Scalable API Architectures
+- DevOps & Cloud Automation
+- High-Performance Backend Systems
+- Production-Ready Software Delivery
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agurokeendavid&layout=compact&theme=tokyonight)
+---
 
-------------------------------------------------------------------------
+## 📊 GitHub Stats
 
-# 🐍 Contribution Snake
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agurokeendavid&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agurokeendavid&layout=compact&theme=tokyonight" />
+</p>
 
-![Snake animation](https://github.com/agurokeendavid/agurokeendavid/blob/output/github-contribution-grid-snake.svg)
+---
 
-------------------------------------------------------------------------
+## 📈 GitHub Activity Graph
 
-# 🌌 3D Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agurokeendavid&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+</p>
 
-![3D
-Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agurokeendavid&theme=tokyonight)
+---
 
-------------------------------------------------------------------------
+## 🐍 Contribution Snake
 
-# 💡 Engineering Philosophy
+<p align="center">
+  <img src="https://github.com/agurokeendavid/agurokeendavid/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-I focus on building **maintainable, scalable, and production-ready
-systems**.
+---
 
-Principles:
+## 🌌 3D Contribution Visualization
 
--   Clean Architecture
--   Performance Optimization
--   Secure Software Design
--   Automated CI/CD Pipelines
--   Observability and Monitoring
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agurokeendavid&theme=tokyonight" alt="3D contribution graph" />
+</p>
 
-------------------------------------------------------------------------
+---
 
-# 📫 Contact
+## 💡 Engineering Philosophy
 
-Email: **agurokeendavid@gmail.com**\
-LinkedIn: https://linkedin.com/in/agurokeendavid
+I focus on building **maintainable, scalable, and production-ready systems**.
+
+### Principles
+- Clean Architecture
+- Performance Optimization
+- Secure Software Design
+- Automated CI/CD Pipelines
+- Observability and Monitoring
+
+---
+
+## 📫 Professional Contact
+
+**Keen David Aguro**  
+Senior / Lead Software Engineer (.NET Full Stack)  
+📍 Manila, Philippines  
+
+📧 **Email:** agurokeendavid@gmail.com  
+📞 **Mobile:** +63 961 484 4561  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/agurokeendavid/  
+💻 **GitHub:** https://github.com/agurokeendavid  
+
+📄 **Resume:** https://drive.google.com/file/d/my-filelink
