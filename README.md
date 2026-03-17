@@ -1,8 +1,8 @@
-# <div align="center">Hi there, I'm Keen David Aguro 👋</div>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Senior+%2F+Lead+Software+Engineer+(.NET+Full+Stack);Building+Enterprise+Systems%2C+Government+Platforms%2C+and+Scalable+APIs;ASP.NET+%7C+.NET+8%2F10+%7C+Angular+%7C+Laravel+%7C+Oracle+%7C+Docker;Passionate+about+Clean+Architecture%2C+DevOps%2C+and+Production-Ready+Systems)](https://git.io/typing-svg)
+# Hi there, I'm Keen David Aguro 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=1100&lines=Senior+%2F+Lead+Software+Engineer+(.NET+Full+Stack);Enterprise+Systems%2C+Government+Platforms%2C+and+Scalable+APIs;ASP.NET+%7C+.NET+8%2F10+%7C+Angular+%7C+Laravel+%7C+Oracle+%7C+Docker;Clean+Architecture+%7C+DevOps+%7C+Production-Ready+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -32,10 +32,10 @@ I design and build **enterprise systems, government platforms, scalable APIs, an
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agurokeendavid/">
-    <img src="https://img.shields.io/badge/LinkedIn-Keen%20Aguro-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Keen%20David%20Aguro-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/agurokeendavid">
-    <img src="https://img.shields.io/badge/GitHub-agurokeendavid-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-agurokeendavid-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -46,24 +46,24 @@ I design and build **enterprise systems, government platforms, scalable APIs, an
 ### Animated Skill Icons
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,vue,js,php,laravel,mysql,aws,docker,githubactions,java,swift&perline=7" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,vue,js,php,laravel,mysql,aws,docker,githubactions,java,swift&perline=7" alt="Skill Icons" />
 </p>
 
 ### Core Technologies
 
-- **Backend:** C#, .NET 8 / .NET 10, ASP.NET WebForms, ASP.NET MVC, REST APIs, Laravel PHP, CodeIgniter  
-- **Frontend:** Angular, Vue.js, JavaScript, HTML/CSS, DevExpress  
-- **Database:** Oracle 19c, MS SQL Server, MySQL  
-- **DevOps / Infrastructure:** Docker, GitHub Actions, CI/CD, IIS, Reverse Proxy, AWS  
-- **Monitoring:** Hangfire, Serilog, OpenTelemetry, .NET Aspire  
-- **Mobile:** .NET MAUI, Android (Java), Swift  
+- **Backend:** C#, .NET 8 / .NET 10, ASP.NET WebForms, ASP.NET MVC, REST APIs, Laravel PHP, CodeIgniter
+- **Frontend:** Angular, Vue.js, JavaScript, HTML/CSS, DevExpress
+- **Database:** Oracle 19c, MS SQL Server, MySQL
+- **DevOps / Infrastructure:** Docker, GitHub Actions, CI/CD, IIS, Reverse Proxy, AWS
+- **Monitoring:** Hangfire, Serilog, OpenTelemetry, .NET Aspire
+- **Mobile:** .NET MAUI, Android (Java), Swift
 
 ---
 
 ## ⭐ Featured Production Systems
 
 ### BI eServices Portal
-https://e-services.immigration.gov.ph
+<a href="https://e-services.immigration.gov.ph">https://e-services.immigration.gov.ph</a>
 
 National immigration services platform with integrated payment gateways (**Maya, GCash, Landbank**).  
 **Tech:** .NET MVC • Oracle 19c • Hangfire • Serilog
@@ -71,7 +71,7 @@ National immigration services platform with integrated payment gateways (**Maya,
 ---
 
 ### Enerlytic – Energy Real-Time Consumption Monitoring
-https://enerlytic.co.uk/
+<a href="https://enerlytic.co.uk/">https://enerlytic.co.uk/</a>
 
 Real-time electricity and water consumption monitoring system.  
 **Tech:** .NET 8 Web API • Angular • MS SQL Server
@@ -79,7 +79,7 @@ Real-time electricity and water consumption monitoring system.
 ---
 
 ### Bantay Pusta – Gambling Protection Platform
-https://rgph-web-awc6ebcybpanehfz.southeastasia-01.azurewebsites.net/
+<a href="https://rgph-web-awc6ebcybpanehfz.southeastasia-01.azurewebsites.net/">https://rgph-web-awc6ebcybpanehfz.southeastasia-01.azurewebsites.net/</a>
 
 Platform designed to monitor and restrict access to online betting platforms.  
 **Tech:** .NET MAUI • .NET Web API
@@ -87,7 +87,7 @@ Platform designed to monitor and restrict access to online betting platforms.
 ---
 
 ### Backride Pinas – Motorcycle Booking Platform
-https://backridepinas.com/
+<a href="https://backridepinas.com/">https://backridepinas.com/</a>
 
 Motorcycle ride booking system in Palawan.  
 **Tech:** Laravel • Angular • MySQL
@@ -95,13 +95,14 @@ Motorcycle ride booking system in Palawan.
 ---
 
 ### Real Estate Management ERP
-https://rems-staging.pdpsolutions.ph/
+<a href="https://rems-staging.pdpsolutions.ph/">https://rems-staging.pdpsolutions.ph/</a>
 
 Enterprise property and real estate management system.  
 **Tech:** CodeIgniter • Vue.js • MySQL • AWS
 
-<!-- ---
+---
 
+<!--
 ## 📌 Pinned Repository Showcase
 
 These are the repositories I recommend pinning on my GitHub profile:
@@ -114,8 +115,7 @@ These are the repositories I recommend pinning on my GitHub profile:
 | **docker-dotnet-api** | Dockerized .NET Web API deployment template |
 | **system-design-notes** | Notes and diagrams for scalable system architecture |
 | **portfolio** | Personal engineering portfolio and project showcase |
-
---- -->
+-->
 
 ## 🏗 Engineering Focus
 
@@ -131,8 +131,8 @@ These are the repositories I recommend pinning on my GitHub profile:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agurokeendavid&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agurokeendavid&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agurokeendavid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agurokeendavid&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -153,10 +153,10 @@ These are the repositories I recommend pinning on my GitHub profile:
 
 ---
 
-## 🌌 3D Contribution Visualization
+## 🌌 Contribution Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agurokeendavid&theme=tokyonight" alt="3D contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agurokeendavid&theme=tokyonight" alt="Contribution summary" />
 </p>
 
 ---
@@ -178,12 +178,12 @@ I focus on building **maintainable, scalable, and production-ready systems**.
 
 **Keen David Aguro**  
 Senior / Lead Software Engineer (.NET Full Stack)  
-📍 Manila, Philippines  
+📍 Manila, Philippines
 
-📧 **Email:** agurokeendavid@gmail.com  
-📞 **Mobile:** +63 961 484 4561  
+📧 **Email:** <a href="mailto:agurokeendavid@gmail.com">agurokeendavid@gmail.com</a>  
+📞 **Mobile:** +63 961 484 4561
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/agurokeendavid/  
-💻 **GitHub:** https://github.com/agurokeendavid  
+🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/agurokeendavid/">https://www.linkedin.com/in/agurokeendavid/</a>  
+💻 **GitHub:** <a href="https://github.com/agurokeendavid">https://github.com/agurokeendavid</a>
 
-📄 **Resume:** https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing
+📄 **Resume:** <a href="https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing">https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing</a>
