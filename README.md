@@ -31,6 +31,9 @@ I design and build **enterprise systems, government platforms, scalable APIs, an
 ## 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://keendavidaguro-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Keen%20David%20Aguro-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/agurokeendavid/">
     <img src="https://img.shields.io/badge/LinkedIn-Keen%20David%20Aguro-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -131,8 +134,8 @@ These are the repositories I recommend pinning on my GitHub profile:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agurokeendavid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agurokeendavid&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agurokeendavid&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=agurokeendavid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -140,7 +143,7 @@ These are the repositories I recommend pinning on my GitHub profile:
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agurokeendavid&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agurokeendavid&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -185,5 +188,6 @@ Senior / Lead Software Engineer (.NET Full Stack)
 
 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/agurokeendavid/">https://www.linkedin.com/in/agurokeendavid/</a>  
 💻 **GitHub:** <a href="https://github.com/agurokeendavid">https://github.com/agurokeendavid</a>
+🌐 **Portfolio:** <a href="https://keendavidaguro-portfolio.vercel.app/">https://keendavidaguro-portfolio.vercel.app/</a>
 
 📄 **Resume:** <a href="https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing">https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing</a>
