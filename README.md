@@ -134,8 +134,8 @@ These are the repositories I recommend pinning on my GitHub profile:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=agurokeendavid&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=agurokeendavid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agurokeendavid&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=agurokeendavid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -187,7 +187,7 @@ Senior / Lead Software Engineer (.NET Full Stack)
 📞 **Mobile:** +63 961 484 4561
 
 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/agurokeendavid/">https://www.linkedin.com/in/agurokeendavid/</a>  
-💻 **GitHub:** <a href="https://github.com/agurokeendavid">https://github.com/agurokeendavid</a>
+💻 **GitHub:** <a href="https://github.com/agurokeendavid">https://github.com/agurokeendavid</a>  
 🌐 **Portfolio:** <a href="https://keendavidaguro-portfolio.vercel.app/">https://keendavidaguro-portfolio.vercel.app/</a>
 
 📄 **Resume:** <a href="https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing">https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing</a>
