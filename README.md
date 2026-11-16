@@ -1,193 +1,106 @@
 <div align="center">
 
-# Hi there, I'm Keen David Aguro 👋
+# Keen David Aguro
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=1100&lines=Senior+%2F+Lead+Software+Engineer+(.NET+Full+Stack);Enterprise+Systems%2C+Government+Platforms%2C+and+Scalable+APIs;ASP.NET+%7C+.NET+8%2F10+%7C+Angular+%7C+Laravel+%7C+Oracle+%7C+Docker;Clean+Architecture+%7C+DevOps+%7C+Production-Ready+Systems" alt="Typing SVG" />
+**Full-stack developer · .NET, Angular, Laravel · Manila, PH**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=3B82F6&center=true&vCenter=true&width=600&lines=Lead+developer%2C+BI+eServices+Portal;Built+Enerlytic%2C+a+UK+energy+analytics+platform;.NET+%7C+Angular+%7C+Laravel+%7C+Oracle+%7C+Docker" alt="Typing SVG" />
+
+<a href="https://keendavidaguro-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/agurokeendavid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://keendavidaguro-portfolio.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+<a href="mailto:agurokeendavid@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🇵🇭 Based in **Manila, Philippines**
-- 💼 **6+ years** of experience in software engineering
-- 🏛 Former **Lead Developer** at the **Bureau of Immigration (Philippines)**
-- 🔧 Focused on **enterprise systems, government platforms, scalable APIs, and cloud-ready applications**
-- 📱 Experienced in **web, backend, DevOps, and mobile development**
+I've been writing production software since 2019. I'm the lead developer of the Philippine Bureau of Immigration's eServices portal, and as a freelancer I built Enerlytic, an energy analytics platform used by UK organizations. Most of my work is in government, energy, and real estate.
 
-I design and build **enterprise systems, government platforms, scalable APIs, and modern web applications** using .NET and modern cloud technologies.
+- **Currently:** Senior Software Developer / Lead at the Bureau of Immigration, plus freelance work
+- **Day-to-day stack:** C# / ASP.NET Core, Angular, Oracle and SQL Server, Docker, GitHub Actions
+- **Open to:** freelance projects, payment gateway integration, legacy system modernization, CI/CD setup. See [services and rates](https://keendavidaguro-portfolio.vercel.app/).
 
 ---
 
-## 👀 Profile Visitors
+## Open-source projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**StudyConnect**](https://github.com/agurokeendavid/StudyConnect) | Study group app with real-time chat, shared resources, scheduling, and expiring invite links | .NET 9 MVC, JavaScript, Bootstrap, DevExtreme |
+| [**BIMSS**](https://github.com/agurokeendavid/bi-buklod-bimss) *(in progress)* | Membership platform for the BI employee cooperative: registration, contributions, loans, online elections | .NET 10 Web API, EF Core, Next.js |
+
+---
+
+## Production work
+
+**[BI eServices Portal](https://e-services.immigration.gov.ph)**: Public portal of the Bureau of Immigration for visas, extensions, accreditation, compliance, and online verification. Accepts payments through Maya, GCash, and Landbank.
+<br><sub>ASP.NET Core MVC (.NET 10) · Web API · Oracle 19c · Hangfire · Serilog</sub>
+
+**[Enerlytic](https://enerlytic.co.uk/)**: Electricity, gas, and water dashboards for multi-site organizations. Half-hourly costs are derived from supplier invoices, and data is pulled from European utility APIs.
+<br><sub>.NET Web API · Angular · TypeScript · RxJS · SQL Server</sub>
+
+**Bantay Pusta**: Gambling recovery app. Blocks betting sites on the device through a VPN-based local DNS filter with device-admin tamper protection. Includes a journal, milestone tracking, and helpline access.
+<br><sub>.NET MAUI · .NET Web API</sub>
+
+**[Backride Pinas](https://backridepinas.com/)**: Motorcycle ride booking in Palawan.
+<br><sub>Laravel · Angular · MySQL</sub>
+
+**Federal Forecasting App**: Federal and state contracting intelligence with NAICS and agency filters, dataset exports, and Android and iOS clients.
+<br><sub>Laravel · MySQL · Android (Java) · Swift</sub>
+
+**Real Estate ERP**: Property and transaction modules for a multi-branch real estate company.
+<br><sub>CodeIgniter · Vue.js · MySQL · AWS</sub>
+
+**[OFormAT](https://play.google.com/store/apps/details?id=com.kda.oformat)**: Discrete math quiz app with instant scoring and attempt history, available on Google Play.
+<br><sub>Xamarin.Forms</sub>
+
+---
+
+## Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Senior Software Developer / Lead | Bureau of Immigration (PH) | Dec 2022 – Present |
+| Freelance Web, Software & Mobile Developer | Independent | Jan 2019 – Present |
+| IT Consultant / Lead Developer | Ninja Tribe Solutions | Nov 2025 – Mar 2026 |
+| Web Developer | Pueblo de Panay Inc. | May 2022 – Dec 2022 |
+| Software Developer | Bureau of Immigration (PH) | Oct 2019 – Mar 2022 |
+| Software Developer | SERVIO Technologies | Jul 2019 – Oct 2019 |
+
+Notable work at the Bureau of Immigration:
+- Built data-sharing APIs with PRA, DOLE, PSA, and the DICT eGov platform
+- Set up Dockerized builds and GitHub Actions pipelines with automated tests, deploying to on-prem IIS behind a reverse proxy
+- Mentor the junior developers on the team and handle production releases
+
+---
+
+## Tech stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agurokeendavid&style=for-the-badge" alt="visitor counter" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,react,nextjs,php,laravel,mysql,docker,githubactions,aws&perline=12" alt="Skill icons" />
 </p>
+
+- **Backend:** C#, ASP.NET Core (MVC, Web API), ASP.NET WebForms, EF Core, SignalR, Hangfire, Serilog, Laravel, CodeIgniter
+- **Frontend:** Angular, TypeScript, React, Next.js, Vue.js, Bootstrap, DevExpress / DevExtreme
+- **Databases:** Oracle 19c, SQL Server, MySQL
+- **Mobile:** .NET MAUI, Xamarin.Forms, React Native, Android (Java), Swift
+- **DevOps:** Docker, GitHub Actions, IIS, reverse proxy, AWS
 
 ---
 
-## 🔗 Connect With Me
+## GitHub activity
 
 <p align="center">
-  <a href="https://keendavidaguro-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Keen%20David%20Aguro-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/agurokeendavid/">
-    <img src="https://img.shields.io/badge/LinkedIn-Keen%20David%20Aguro-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/agurokeendavid">
-    <img src="https://img.shields.io/badge/GitHub-agurokeendavid-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agurokeendavid&theme=tokyonight" alt="GitHub stats" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agurokeendavid&theme=tokyonight" alt="Top languages" />
 </p>
-
----
-
-## 🧠 Tech Stack
-
-### Animated Skill Icons
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,vue,js,php,laravel,mysql,aws,docker,githubactions,java,swift&perline=7" alt="Skill Icons" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agurokeendavid/agurokeendavid/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/agurokeendavid/agurokeendavid/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
 </p>
-
-### Core Technologies
-
-- **Backend:** C#, .NET 8 / .NET 10, ASP.NET WebForms, ASP.NET MVC, REST APIs, Laravel PHP, CodeIgniter
-- **Frontend:** Angular, Vue.js, JavaScript, HTML/CSS, DevExpress
-- **Database:** Oracle 19c, MS SQL Server, MySQL
-- **DevOps / Infrastructure:** Docker, GitHub Actions, CI/CD, IIS, Reverse Proxy, AWS
-- **Monitoring:** Hangfire, Serilog, OpenTelemetry, .NET Aspire
-- **Mobile:** .NET MAUI, Android (Java), Swift
-
----
-
-## ⭐ Featured Production Systems
-
-### BI eServices Portal
-<a href="https://e-services.immigration.gov.ph">https://e-services.immigration.gov.ph</a>
-
-National immigration services platform with integrated payment gateways (**Maya, GCash, Landbank**).  
-**Tech:** .NET MVC • Oracle 19c • Hangfire • Serilog
-
----
-
-### Enerlytic – Energy Real-Time Consumption Monitoring
-<a href="https://enerlytic.co.uk/">https://enerlytic.co.uk/</a>
-
-Real-time electricity and water consumption monitoring system.  
-**Tech:** .NET 8 Web API • Angular • MS SQL Server
-
----
-
-### Bantay Pusta – Gambling Protection Platform
-<a href="https://rgph-web-awc6ebcybpanehfz.southeastasia-01.azurewebsites.net/">https://rgph-web-awc6ebcybpanehfz.southeastasia-01.azurewebsites.net/</a>
-
-Platform designed to monitor and restrict access to online betting platforms.  
-**Tech:** .NET MAUI • .NET Web API
-
----
-
-### Backride Pinas – Motorcycle Booking Platform
-<a href="https://backridepinas.com/">https://backridepinas.com/</a>
-
-Motorcycle ride booking system in Palawan.  
-**Tech:** Laravel • Angular • MySQL
-
----
-
-### Real Estate Management ERP
-<a href="https://rems-staging.pdpsolutions.ph/">https://rems-staging.pdpsolutions.ph/</a>
-
-Enterprise property and real estate management system.  
-**Tech:** CodeIgniter • Vue.js • MySQL • AWS
-
----
-
-<!--
-## 📌 Pinned Repository Showcase
-
-These are the repositories I recommend pinning on my GitHub profile:
-
-| Project | Description |
-|---|---|
-| **BantayPusta** | Gambling protection platform with monitoring capabilities |
-| **dotnet-enterprise-api** | Clean architecture .NET API with logging, monitoring, and Docker |
-| **angular-enterprise-dashboard** | Enterprise admin dashboard with charts and API integrations |
-| **docker-dotnet-api** | Dockerized .NET Web API deployment template |
-| **system-design-notes** | Notes and diagrams for scalable system architecture |
-| **portfolio** | Personal engineering portfolio and project showcase |
--->
-
-## 🏗 Engineering Focus
-
-- Enterprise Systems
-- Government Digital Platforms
-- Scalable API Architectures
-- DevOps & Cloud Automation
-- High-Performance Backend Systems
-- Production-Ready Software Delivery
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agurokeendavid&theme=tokyonight" alt="GitHub Stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agurokeendavid&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agurokeendavid&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/agurokeendavid/agurokeendavid/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🌌 Contribution Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agurokeendavid&theme=tokyonight" alt="Contribution summary" />
-</p>
-
----
-
-## 💡 Engineering Philosophy
-
-I focus on building **maintainable, scalable, and production-ready systems**.
-
-### Principles
-- Clean Architecture
-- Performance Optimization
-- Secure Software Design
-- Automated CI/CD Pipelines
-- Observability and Monitoring
-
----
-
-## 📫 Professional Contact
-
-**Keen David Aguro**  
-Senior / Lead Software Engineer (.NET Full Stack)  
-📍 Manila, Philippines
-
-📧 **Email:** <a href="mailto:agurokeendavid@gmail.com">agurokeendavid@gmail.com</a>  
-📞 **Mobile:** +63 961 484 4561
-
-🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/agurokeendavid/">https://www.linkedin.com/in/agurokeendavid/</a>  
-💻 **GitHub:** <a href="https://github.com/agurokeendavid">https://github.com/agurokeendavid</a>  
-🌐 **Portfolio:** <a href="https://keendavidaguro-portfolio.vercel.app/">https://keendavidaguro-portfolio.vercel.app/</a>
-
-📄 **Resume:** <a href="https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing">https://drive.google.com/file/d/16A1HmvpL9K5B5zSWJKaQNo08OnoyFaw7/view?usp=sharing</a>
